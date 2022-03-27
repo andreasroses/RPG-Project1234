@@ -1,0 +1,2583 @@
+fileFormatVersion: 2
+guid: 96f45e7c7a5a1414fa76769a4f2dedfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2306518229325626529
+    second: buiding1_0
+  - first:
+      213: 7358186382979990900
+    second: buiding1_1
+  - first:
+      213: 8306018838938311528
+    second: buiding1_2
+  - first:
+      213: 6942873816373889550
+    second: buiding1_3
+  - first:
+      213: -7660101181001018599
+    second: buiding1_4
+  - first:
+      213: 641794327288746606
+    second: buiding1_5
+  - first:
+      213: -8219933559351514119
+    second: buiding1_6
+  - first:
+      213: 1371853484289813766
+    second: buiding1_7
+  - first:
+      213: -8168738093663016608
+    second: buiding1_8
+  - first:
+      213: -5778782092792523618
+    second: buiding1_9
+  - first:
+      213: 9185704052695751952
+    second: buiding1_10
+  - first:
+      213: -2479853443002495613
+    second: buiding1_11
+  - first:
+      213: -4102539359186706278
+    second: buiding1_12
+  - first:
+      213: 7071115853210337180
+    second: buiding1_13
+  - first:
+      213: -923876781777678248
+    second: buiding1_14
+  - first:
+      213: 4014936878738243344
+    second: buiding1_15
+  - first:
+      213: 7175729009459971148
+    second: buiding1_16
+  - first:
+      213: -8232870479045846823
+    second: buiding1_17
+  - first:
+      213: 7738616944507382709
+    second: buiding1_18
+  - first:
+      213: -200618624243756502
+    second: buiding1_19
+  - first:
+      213: -7728240278497030242
+    second: buiding1_20
+  - first:
+      213: 5850179591360642522
+    second: buiding1_21
+  - first:
+      213: -5412612659643873186
+    second: buiding1_22
+  - first:
+      213: -7964237956991928051
+    second: buiding1_23
+  - first:
+      213: -7921285534057920621
+    second: buiding1_24
+  - first:
+      213: -3614278995336405085
+    second: buiding1_25
+  - first:
+      213: -8138954633285115529
+    second: buiding1_26
+  - first:
+      213: 3450763911933066294
+    second: buiding1_27
+  - first:
+      213: 5070810218066582270
+    second: buiding1_28
+  - first:
+      213: -5717778846319409919
+    second: buiding1_29
+  - first:
+      213: 3866255749226437632
+    second: buiding1_30
+  - first:
+      213: -4434166888358669449
+    second: buiding1_31
+  - first:
+      213: 6456664906311910438
+    second: buiding1_32
+  - first:
+      213: -2544603849410096169
+    second: buiding1_33
+  - first:
+      213: 6598948846100645240
+    second: buiding1_34
+  - first:
+      213: -1141613026214318683
+    second: buiding1_35
+  - first:
+      213: -1983106436254421418
+    second: buiding1_36
+  - first:
+      213: -8295369489497421159
+    second: buiding1_37
+  - first:
+      213: -5518754511988679908
+    second: buiding1_38
+  - first:
+      213: 7546989757413003344
+    second: buiding1_39
+  - first:
+      213: 6186811544464028010
+    second: buiding1_40
+  - first:
+      213: 5614168796371005855
+    second: buiding1_41
+  - first:
+      213: 5157584689118122491
+    second: buiding1_42
+  - first:
+      213: 2377109296010612971
+    second: buiding1_43
+  - first:
+      213: 3102155399678575485
+    second: buiding1_44
+  - first:
+      213: 9119129936344165614
+    second: buiding1_45
+  - first:
+      213: -7746259830131165403
+    second: buiding1_46
+  - first:
+      213: -6197863166162986463
+    second: buiding1_47
+  - first:
+      213: 4267374622153558245
+    second: buiding1_48
+  - first:
+      213: -2475966239042300422
+    second: buiding1_49
+  - first:
+      213: 7085886454942681439
+    second: buiding1_50
+  - first:
+      213: 1167049780156986518
+    second: buiding1_51
+  - first:
+      213: 2483128977222610331
+    second: buiding1_52
+  - first:
+      213: 6830009077260743275
+    second: buiding1_53
+  - first:
+      213: 5899321976083973414
+    second: buiding1_54
+  - first:
+      213: -471840759779844304
+    second: buiding1_55
+  - first:
+      213: 2424300493232147383
+    second: buiding1_56
+  - first:
+      213: 3807799202080339831
+    second: buiding1_57
+  - first:
+      213: 7500837743362516396
+    second: buiding1_58
+  - first:
+      213: 7148425740330104945
+    second: buiding1_59
+  - first:
+      213: 2845235025406119771
+    second: buiding1_60
+  - first:
+      213: -2091688604270194613
+    second: buiding1_61
+  - first:
+      213: -7254391695975486841
+    second: buiding1_62
+  - first:
+      213: -1047111280357947580
+    second: buiding1_63
+  - first:
+      213: 8500778394173632185
+    second: buiding1_64
+  - first:
+      213: -2187792589595348791
+    second: buiding1_65
+  - first:
+      213: -8713187427272751928
+    second: buiding1_66
+  - first:
+      213: -649781823881432091
+    second: buiding1_67
+  - first:
+      213: -2656127856156954953
+    second: buiding1_68
+  - first:
+      213: 7838996706147974024
+    second: buiding1_69
+  - first:
+      213: -6338999517856096276
+    second: buiding1_70
+  - first:
+      213: -5678877421871033920
+    second: buiding1_71
+  - first:
+      213: 8367661414088275021
+    second: buiding1_72
+  - first:
+      213: 4819928831036466532
+    second: buiding1_73
+  - first:
+      213: 6813686758100199813
+    second: buiding1_74
+  - first:
+      213: -708724783304981863
+    second: buiding1_75
+  - first:
+      213: -5405229181582430726
+    second: buiding1_76
+  - first:
+      213: -2334195888447925094
+    second: buiding1_77
+  - first:
+      213: -739615862913149181
+    second: buiding1_78
+  - first:
+      213: 6341795631134855920
+    second: buiding1_79
+  - first:
+      213: 5086950931196172741
+    second: buiding1_80
+  - first:
+      213: -5094829864368337916
+    second: buiding1_81
+  - first:
+      213: -2452475564308594122
+    second: buiding1_82
+  - first:
+      213: -782349762566237246
+    second: buiding1_83
+  - first:
+      213: -2313576989979249805
+    second: buiding1_84
+  - first:
+      213: -4980749133179451938
+    second: buiding1_85
+  - first:
+      213: -5113162878503289849
+    second: buiding1_86
+  - first:
+      213: -1768837919576786421
+    second: buiding1_87
+  - first:
+      213: -1186547159233420622
+    second: buiding1_88
+  - first:
+      213: 2359873443395404958
+    second: buiding1_89
+  - first:
+      213: -7947426158048045928
+    second: buiding1_90
+  - first:
+      213: -1621482471294283326
+    second: buiding1_91
+  - first:
+      213: -4385997661434839669
+    second: buiding1_92
+  - first:
+      213: 1562850069084876569
+    second: buiding1_93
+  - first:
+      213: 6979825786578584913
+    second: buiding1_94
+  - first:
+      213: -8652905725217221503
+    second: buiding1_95
+  - first:
+      213: 1236451734606907282
+    second: buiding1_96
+  - first:
+      213: 5047992810821384326
+    second: buiding1_97
+  - first:
+      213: 7516142731418776072
+    second: buiding1_98
+  - first:
+      213: 3787497088003501912
+    second: buiding1_99
+  - first:
+      213: 7134520333027926398
+    second: buiding1_100
+  - first:
+      213: -903191232978199979
+    second: buiding1_101
+  - first:
+      213: -1653025211315611929
+    second: buiding1_102
+  - first:
+      213: 4092290056163299229
+    second: buiding1_103
+  - first:
+      213: 6057894748620766107
+    second: buiding1_104
+  - first:
+      213: -1316882213984968069
+    second: buiding1_105
+  - first:
+      213: 3976619544062810388
+    second: buiding1_106
+  - first:
+      213: -1771690573485244072
+    second: buiding1_107
+  - first:
+      213: 3666403134356256080
+    second: buiding1_108
+  - first:
+      213: -70493752477875241
+    second: buiding1_109
+  - first:
+      213: -5169109287188379175
+    second: buiding1_110
+  - first:
+      213: -1581039166269311831
+    second: buiding1_111
+  - first:
+      213: 3791852053703305059
+    second: buiding1_112
+  - first:
+      213: -1371691668981385122
+    second: buiding1_113
+  - first:
+      213: -6212993329918110548
+    second: buiding1_114
+  - first:
+      213: 7362679087504087087
+    second: buiding1_115
+  - first:
+      213: -599491377274917132
+    second: buiding1_116
+  - first:
+      213: 798742781763663084
+    second: buiding1_117
+  - first:
+      213: 8440143340378361592
+    second: buiding1_118
+  - first:
+      213: 7946130761376519314
+    second: buiding1_119
+  - first:
+      213: 1465563394267660027
+    second: buiding1_120
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buiding1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbaeeeb16620020800000000000000
+      internalID: 2306518229325626529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47583aca7878d1660800000000000000
+      internalID: 7358186382979990900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bde987028e44370800000000000000
+      internalID: 8306018838938311528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a835973fa0a5060800000000000000
+      internalID: 6942873816373889550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91352e29f8ad1b590800000000000000
+      internalID: -7660101181001018599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6218e05a8c18e800800000000000000
+      internalID: 641794327288746606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb6a859afdeced80800000000000000
+      internalID: -8219933559351514119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de9feb97dc90310800000000000000
+      internalID: 1371853484289813766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a300dbffc2ae80800000000000000
+      internalID: -8168738093663016608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9496bccd44adcfa0800000000000000
+      internalID: -5778782092792523618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddbc00b2d2a7f70800000000000000
+      internalID: 9185704052695751952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d8ec2be6ac59dd0800000000000000
+      internalID: -2479853443002495613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a902e92603ad017c0800000000000000
+      internalID: -4102539359186706278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3c347766a12260800000000000000
+      internalID: 7071115853210337180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85019ed36fabd23f0800000000000000
+      internalID: -923876781777678248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ffec4b1dbe7b730800000000000000
+      internalID: 4014936878738243344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c355f38f459360800000000000000
+      internalID: 7175729009459971148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d81cae3be7febd80800000000000000
+      internalID: -8232870479045846823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6e2e2c17156b60800000000000000
+      internalID: 7738616944507382709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a229f969c62473df0800000000000000
+      internalID: -200618624243756502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8155a966cfb490800000000000000
+      internalID: -7728240278497030242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7a4fb753003150800000000000000
+      internalID: 5850179591360642522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58052b967982e4b0800000000000000
+      internalID: -5412612659643873186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0930d246c7597190800000000000000
+      internalID: -7964237956991928051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397890a86c0f11290800000000000000
+      internalID: -7921285534057920621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af51db276087ddc0800000000000000
+      internalID: -3614278995336405085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771650012ef9c0f80800000000000000
+      internalID: -8138954633285115529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf186be7393ef20800000000000000
+      internalID: 3450763911933066294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa974be6032f5640800000000000000
+      internalID: 5070810218066582270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 187.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10583e0fe6e56a0b0800000000000000
+      internalID: -5717778846319409919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c147f9e13b7a530800000000000000
+      internalID: 3866255749226437632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773159055bca672c0800000000000000
+      internalID: -4434166888358669449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c37ef58eaa9950800000000000000
+      internalID: 6456664906311910438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d1d5e740cfacd0800000000000000
+      internalID: -2544603849410096169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8758dc6430d249b50800000000000000
+      internalID: 6598948846100645240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad698d400d2820f0800000000000000
+      internalID: -1141613026214318683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea34304379a74e0800000000000000
+      internalID: -1983106436254421418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a84e9666de0ec80800000000000000
+      internalID: -8295369489497421159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b945ec2027963b0800000000000000
+      internalID: -5518754511988679908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0501d1ed23b4cb860800000000000000
+      internalID: 7546989757413003344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6170101258fbd550800000000000000
+      internalID: 6186811544464028010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b6c076c889ed40800000000000000
+      internalID: 5614168796371005855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf111edd2fb639740800000000000000
+      internalID: 5157584689118122491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ddfc6f403df020800000000000000
+      internalID: 2377109296010612971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c6eb66e11d0b20800000000000000
+      internalID: 3102155399678575485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecac64ac58ad8e70800000000000000
+      internalID: 9119129936344165614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5277727d9b1cf7490800000000000000
+      internalID: -7746259830131165403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a906eb944ccf9a0800000000000000
+      internalID: -6197863166162986463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cafcfb92c83b30800000000000000
+      internalID: 4267374622153558245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 135.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51606e2d993add0800000000000000
+      internalID: -2475966239042300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594c992030265260800000000000000
+      internalID: 7085886454942681439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694747d7791323010800000000000000
+      internalID: 1167049780156986518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d25da06a8d57220800000000000000
+      internalID: 2483128977222610331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f1de911119ce50800000000000000
+      internalID: 6830009077260743275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250420d41a9ed150800000000000000
+      internalID: 5899321976083973414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f95c2345fa379f0800000000000000
+      internalID: -471840759779844304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb08ef3478d4a120800000000000000
+      internalID: 2424300493232147383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b300233508d430800000000000000
+      internalID: 3807799202080339831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca527fabf24581860800000000000000
+      internalID: 7500837743362516396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 109.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17872ab365f443360800000000000000
+      internalID: 7148425740330104945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fc4df4e2e4c7720800000000000000
+      internalID: 2845235025406119771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401eb1fb44d8f2e0800000000000000
+      internalID: -2091688604270194613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a66db1039335b90800000000000000
+      internalID: -7254391695975486841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c5fd96d9e771f0800000000000000
+      internalID: -1047111280357947580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee80319e4d8f570800000000000000
+      internalID: 8500778394173632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ffee2b3663a1e0800000000000000
+      internalID: -2187792589595348791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40208033a841780800000000000000
+      internalID: -8713187427272751928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ba06bfd28bf6f0800000000000000
+      internalID: -649781823881432091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beaebf99c9832bd0800000000000000
+      internalID: -2656127856156954953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 83.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3861b8f5b9cc60800000000000000
+      internalID: 7838996706147974024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef90d226895708a0800000000000000
+      internalID: -6338999517856096276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11462a2139031b0800000000000000
+      internalID: -5678877421871033920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44797be8b7ef1470800000000000000
+      internalID: 8367661414088275021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a7981cb3d3e240800000000000000
+      internalID: 4819928831036466532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589685b81041f8e50800000000000000
+      internalID: 6813686758100199813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_75
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924797809a1a26f0800000000000000
+      internalID: -708724783304981863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd243e82b4ccf4b0800000000000000
+      internalID: -5405229181582430726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9452e0e4354b9fd0800000000000000
+      internalID: -2334195888447925094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30751d49a4b5cb5f0800000000000000
+      internalID: -739615862913149181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2dae7b685920850800000000000000
+      internalID: 6341795631134855920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95acb8bea789640800000000000000
+      internalID: 5086950931196172741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c064f5b378b49b0800000000000000
+      internalID: -5094829864368337916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_82
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6328f01d77e07fdd0800000000000000
+      internalID: -2452475564308594122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d02839098425f0800000000000000
+      internalID: -782349762566237246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f4c74cf584efd0800000000000000
+      internalID: -2313576989979249805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_85
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed501817d03d0eab0800000000000000
+      internalID: -4980749133179451938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf814e3756a09b0800000000000000
+      internalID: -5113162878503289849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a726aa843d377e0800000000000000
+      internalID: -1768837919576786421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a4a035a9888fe0800000000000000
+      internalID: -1186547159233420622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31.4
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940674c464ffb020800000000000000
+      internalID: 2359873443395404958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89416ea340215b190800000000000000
+      internalID: -7947426158048045928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15bf888465f79e0800000000000000
+      internalID: -1621482471294283326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7b7c6d5ec123c0800000000000000
+      internalID: -4385997661434839669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91faff48bdb50b510800000000000000
+      internalID: 1562850069084876569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c02b72925dd060800000000000000
+      internalID: 6979825786578584913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_95
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184db758614bae780800000000000000
+      internalID: -8652905725217221503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_96
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29709273d42c82110800000000000000
+      internalID: 1236451734606907282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fbbd47b21e0640800000000000000
+      internalID: 5047992810821384326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b953fdf3be4860800000000000000
+      internalID: 7516142731418776072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buiding1_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5.3999996
+        width: 25.1
+        height: 26.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6646d884ef8430800000000000000
+      internalID: 3787497088003501912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
